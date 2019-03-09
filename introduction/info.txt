@@ -1,0 +1,7 @@
+1. https://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/
+2. http://python.slides.com/colt/web-scraping#/
+3. http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+4. https://pythonclock.org/
+5. http://py3readiness.org/
+6. http://python.slides.com/colt/oop-21#/23
+7. http://python.slides.com/colt/variables-and-data-types#/

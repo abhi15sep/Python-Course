@@ -24,6 +24,24 @@ greeting = 'Hello, ' + name
 
 print(greeting)
 
+# Use of  += operator
+
+str_one = "Ice"
+str_one += " Cream"
+print(str_one)
+
+#you can also use -= or *= .
+
+apples = 100
+apples -= 10
+print(apples)
+
+# Accessing characters of a string
+
+name = "John"
+print(name[0])
+print(name[-1])
+
 # You can also use f-strings if you are using Python 3.6 or later.
 # f-strings don't work in Python 3.5 or earlier.
 # In f-strings, {name} gets replaced by the value of the variable name.

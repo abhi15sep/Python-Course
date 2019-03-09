@@ -68,3 +68,9 @@ print(reminder)  # should print 1, therefore it is odd
 # type method is used to check type of.
 type(4)
 print(type(4.0))
+
+# exponential
+
+print(2 ** 3)
+
+print(49 ** 0.5)

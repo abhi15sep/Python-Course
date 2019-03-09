@@ -46,3 +46,17 @@ print(f'You have lived for {months} months.')  # Prints You have lived for 36 mo
 """
 A small exercise: calculate number of seconds lived instead of months!
 """
+
+"""
+Converting data types
+"""
+
+decimal = 12.56777
+integer = int(decimal)
+
+my_list = [1, 2, 3]
+my_list_as_a_string = str(my_list)
+
+# Note: Don't use predefined keywords as variables, otherwise it will change the behaviour of that keyword
+#int = "hello"
+print(int("9"))
