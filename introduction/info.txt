@@ -3,5 +3,8 @@
 3. http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
 4. https://pythonclock.org/
 5. http://py3readiness.org/
-6. http://python.slides.com/colt/oop-21#/23
+
+Numbers & Math:
+6. http://python.slides.com/colt/oop-21#
+Boolean & Condition logic:
 7. http://python.slides.com/colt/variables-and-data-types#/
