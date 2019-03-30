@@ -1,0 +1,2 @@
+#Tuples and Sets
+http://python.slides.com/colt/lists-23#/
