@@ -14,3 +14,4 @@ stuff = [1, 3, 1, 5, 2, 5, 1, 2, 5]
 
 # Create a variable called unique_stuff which is a set of only the unique values in the stuff list
 unique_stuff = set(stuff)
+
