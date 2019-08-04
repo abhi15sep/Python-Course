@@ -18,7 +18,7 @@ def yes_or_no():
 
 
 gen = yes_or_no()
-next(gen) # 'yes'
+print(next(gen)) # 'yes'
 next(gen) # 'no'
 next(gen) # 'yes'
 next(gen) # 'no'
